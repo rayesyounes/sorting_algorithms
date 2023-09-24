@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 /** Data structures **/
 /**
  * struct listint_s - Doubly linked list node
