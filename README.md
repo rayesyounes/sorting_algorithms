@@ -22,7 +22,7 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. Bubble sort | [SOON](./) |
-| 1. Insertion sort | [SOON](./) |
-| 2. Selection sort | [SOON](./) |
+| 0. Bubble sort | [0-bubble_sort.c](./0-bubble_sort.c) |
+| 1. Insertion sort | [1-insertion_sort_list.c](./1-insertion_sort_list.c) |
+| 2. Selection sort | [2-selection_sort.c](./2-selection_sort.c) |
 | 3. Quick sort | [SOON](./) |
